@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Balsamic Sans';
+}
+
+
+header {
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+.cursivap {
+    font-style: italic;
+}
+
+.avisoacentos {
+    font-style: italic, ;
+}
+
+.aviso {
+    font-weight: bold;
+    font-style: italic;
+}
