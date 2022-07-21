@@ -79,7 +79,7 @@ Instala el respectivo instalador dependiendo de la plataforma que seas: Windows,
    Puedes instalar desde [aquí](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en&gl=US) la mejor IDE de Python que puedes usar en Android, PyDroid:
      
     
-    Te preguntaras, ¿¿y que puedo hacer yo con Pydroid??. Puedes hacer todo esto:
+    Te preguntaras, ¿¿y que puedo hacer yo con Pydroid?? Puedes hacer todo esto:
      
      - Codear / Escribir código
      - Emulador de terminal con los comandos básicos de Linux
