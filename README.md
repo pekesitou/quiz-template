@@ -1,5 +1,11 @@
 # Quiz Template
 
+## Índice
+
+1) ¿Que es esto?
+2) Servidor
+3) Instalando Python
+
 ## ¿Que es esto?
 
 Esto es una simple plantilla para crear un juego de preguntas (cuestionario o quiz)
@@ -51,21 +57,34 @@ Instala el respectivo instalador dependiendo de la plataforma que seas: Windows,
       
       En una terminal pon:
         
-        ```
+        
         sudo apt update
         sudo apt upgrade
         sudo apt install python3
-        ```
+        
         
      En Arch:
        
        En una terminal pon:
          
-         ```
+         
          pacman -s python3
-         ```
- Para más información pulsa [aquí](https://acortar.link/hqLFYk)
- 
+         
+  Para más información pulsa [aquí](https://acortar.link/hqLFYk)
+
+ Android:
+   
+   Puedes instalar desde [aquí](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en&gl=US) la mejor IDE de Python que puedes usar en Android, PyDroid:
+     
+    
+    Te preguntaras, ¿¿y que puedo hacer yo con Pydroid??. Puedes hacer todo esto:
+     
+     - Codear / Escribir código
+     - Emulador de terminal con los comandos básicos de Linux
+     - Como intérprete de Python
+     - Y para instalar módulos desde el modo de "Terminal" o desde una opción llamada "Pip"
+     - ¡Lo mejor!, es muy customizable y lo piedes persomalizar a tu propio gusto!
+     
 
 ## Hecho con:
 
