@@ -5,8 +5,10 @@
 1) ¿Que es esto?
 2) Servidor
 3) Instalando Python
+4) Lenguajes usados
+5) Autor
 
-## ¿Que es esto?
+### ¿Que es esto?
 
 Esto es una simple plantilla para crear un juego de preguntas (cuestionario o quiz)
 creado con los lenguajes de programación HTML5, CSS y JavaScript
@@ -86,13 +88,13 @@ Instala el respectivo instalador dependiendo de la plataforma que seas: Windows,
      - ¡Lo mejor!, es muy customizable y lo piedes persomalizar a tu propio gusto!
      
 
-## Hecho con:
+### Hecho con:
 
 * [HTML5 - Hypertext Markup Language](https://wikipedia.org/wiki/html5/) - Framework usado
 * [CSS - Cascading Style Sheets](https://wikipedia.org/wiki/css/) - Estilos
 * [JS / JavaScript](https://wikipedia.org/wiki/JavaScript/) - Interacciones
 
-## Autor
+### Autor
 
 * **pekeDEV** - [pekeDEV GitHub Profile](https://github.com/pekesitou)
 
